@@ -44057,7 +44057,7 @@ A.anG.prototype={
 $1(a){var s,r=this.a,q=r.r
 q===$&&A.b()
 s=q.y[a]
-if(r.e)if(s.y.length!==0)return B.bP
+if(r.e)if(s.y.length>6)return B.bP
 return new A.zY(s,null)},
 $S:405}
 A.anH.prototype={
